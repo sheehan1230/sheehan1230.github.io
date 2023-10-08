@@ -1,11 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xuehai He Publications</title>
     <style>
         /* CSS styles */
+        .profile {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .profile-info {
+            margin-left: 20px;
+        }
+
         .publist {
             list-style-type: none;
             margin: 0;
@@ -13,10 +24,11 @@
         }
 
         .pub {
-            margin-bottom: 15px; /* Spacing between publications */
+            margin-bottom: 15px;
         }
 
-        h1, h2 {
+        h1,
+        h2 {
             font-weight: bold;
             color: #333;
             border-bottom: 1px solid #ccc;
@@ -25,40 +37,41 @@
         }
 
         strong {
-            color: #0070f3; /* Highlighted name in blue, can be changed as per preference */
+            color: #0070f3;
             font-weight: bold;
         }
 
         i {
             margin-left: 5px;
             margin-right: 5px;
-            font-style: italic; /* Italicizes the title of papers */
+            font-style: italic;
         }
 
         a {
-            text-decoration: none; /* Removes the underline from the hyperlink */
-            color: #0070f3; /* Hyperlink color, can be changed as per preference */
+            text-decoration: none;
+            color: #0070f3;
         }
 
         a:hover {
-            text-decoration: underline; /* Adds underline on hover to hyperlinks */
+            text-decoration: underline;
         }
     </style>
 </head>
-<body>
 
 <body>
     <main>
-        <section>
+        <section class="profile">
             <img src="profile.png" alt="Xuehai He" width="150">
-            <h1>Xuehai He</h1>
-            <p><a href="mailto:xuehaihe2008@gmail.com">xuehaihe2008@gmail.com</a></p>
-            <p><a href="https://github.com/jkooy">GitHub</a></p>
-            <p><a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ">Google Scholar</a></p>
-            <p><a href="https://twitter.com/XuehaiH">Twitter</a></p>
-            <p><a href="https://www.researchgate.net/profile/Xuehai_He2">ResearchGate</a></p> <!-- Corrected the ResearchGate link -->
+            <div class="profile-info">
+                <h1>Xuehai He</h1>
+                <p><a href="mailto:xuehaihe2008@gmail.com">xuehaihe2008@gmail.com</a></p>
+                <p><a href="https://github.com/jkooy">GitHub</a></p>
+                <p><a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ">Google Scholar</a></p>
+                <p><a href="https://twitter.com/XuehaiH">Twitter</a></p>
+                <p><a href="https://www.researchgate.net/profile/Xuehai_He2">ResearchGate</a></p>
 
-            <p><strong>Xuehai He</strong> is currently pursuing a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning.  Before this, he was at University of California, San Diego working with Prof. Pengtao Xie. Xuehai began his research from the University of Electronic Science and Technology of China.</p>
+                <p><strong>Xuehai He</strong> is currently pursuing a Ph.D. ...</p>
+            </div>
         </section>
 
         
@@ -69,7 +82,7 @@
 
 
 <section>
-    <h1>Publications</h1>
+    <h1>Selected Publications</h1>
     <div class="publist">
         <div class="pub">
             Weixi Feng*, Wanrong Zhu*, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, <strong>Xuehai He</strong>, Sugato Basu, Xin Eric Wang, William Yang Wang. <i>LayoutGPT: Compositional Visual Planning and Generation with Large Language Models.</i> NeurIPS, 2023.
