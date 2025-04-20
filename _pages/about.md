@@ -10,14 +10,15 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+# 💼 About Me
 **Xuehai He** is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Prof. Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.
 
 # 🔥 News
 - 🎯 **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild. Host our MMWorld benchmark there.
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
 - 🏅 **2025.01**: Two papers accepted to ICLR 2025.
-- 💼 **2024.01**: Join Microsoft as a research intern again.
+- 🥈 **2024.08**: One paper accepted to TMLR 2024.
+- 🧑‍💻 **2024.01**: Rejoined Microsoft as a research intern.
 
 # 📝 Selected Publications
 * indicates equal contribution
