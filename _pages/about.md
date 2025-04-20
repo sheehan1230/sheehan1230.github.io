@@ -29,7 +29,7 @@ redirect_from:
   <div class="paper-box-text">
     <strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.  
     <i>MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos.</i>  
-    ICLR, 2025. [<a href="https://yourwebsite.com/default_project.html">[Project]</a>]
+    ICLR, 2025. [<a href="https://yourwebsite.com/default_project.html">Project</a>]
   </div>
 </div>
 
@@ -38,7 +38,7 @@ redirect_from:
   <div class="paper-box-text">
     <strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang.  
     <i>Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners.</i>  
-    TMLR, 2024. [<a href="https://yourwebsite.com/default_project.html">[Project]</a>]
+    TMLR, 2024. [<a href="https://yourwebsite.com/default_project.html">Project</a>]
   </div>
 </div>
 
@@ -47,19 +47,19 @@ redirect_from:
   <div class="paper-box-text">
     <strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.  
     <i>Parameter-efficient Model Adaptation for Vision Transformers.</i>  
-    AAAI, 2023. [<a href="https://yourwebsite.com/default_project.html">[Project]</a>]
+    AAAI, 2023. [<a href="https://yourwebsite.com/default_project.html">Project</a>]
   </div>
 </div>
 </div>
 
 # 📰 Selected Preprints
 
-- **Xuehai He**, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang.  
-  *Mojito: Motion Trajectory and Intensity Control for Video Generation.*  
+- *Mojito: Motion Trajectory and Intensity Control for Video Generation.*  
+  **Xuehai He**, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang.  
   [<span class="badge">PDF</span>](https://arxiv.org/abs/2412.08948)
 
-- Kaizhi Zheng*, **Xuehai He***, Xin Eric Wang.  
-  *MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens.*  
+- *MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens.*  
+  Kaizhi Zheng*, **Xuehai He***, Xin Eric Wang.  
   [<span class="badge">PDF</span>](https://arxiv.org/abs/2310.02239)
 
 # 🚲 Service
