@@ -68,13 +68,13 @@ redirect_from:
 - ✒️ **Journal Reviewer**: IEEE Access'19'20; Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'24.
 
 - 👥 **Program Committee Member**:
-  - NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [ [Link](https://sslneurips21.github.io/pages/Program%20Committee.html) ]
+  - NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [[Link](https://sslneurips21.github.io/pages/Program%20Committee.html) ]
 
 - 🤝 **Workshop Co-organizer**:
-  - AAAI 2021: Trustworthy AI for Healthcare [ [Link](https://www.youtube.com/watch?v=mJK53b150eM) ]
-  - ECCV 2022: Workshop on Computer Vision in the Wild [ [Link](https://computer-vision-in-the-wild.github.io/eccv-2022/) ]
+  - AAAI 2021: Trustworthy AI for Healthcare [[Link](https://www.youtube.com/watch?v=mJK53b150eM) ]
+  - ECCV 2022: Workshop on Computer Vision in the Wild [[Link](https://computer-vision-in-the-wild.github.io/eccv-2022/) ]
   - CVPR 2024: 4th Workshop on Computer Vision in the Wild
 
 - 🔍 **Workshop Reviewer**:
-  - NeurIPS 2022: Efficient Natural Language and Speech Processing (ENLSP-II) [ [Link](https://neurips2022-enlsp.github.io/) ]
-  - ICML 2021: Self-Supervised Learning for Reasoning and Perception [ [Link](https://icml21ssl.github.io/pages/Program%20Committee.html) ]
+  - NeurIPS 2022: Efficient Natural Language and Speech Processing (ENLSP-II) [[Link](https://neurips2022-enlsp.github.io/) ]
+  - ICML 2021: Self-Supervised Learning for Reasoning and Perception [[Link](https://icml21ssl.github.io/pages/Program%20Committee.html) ]
