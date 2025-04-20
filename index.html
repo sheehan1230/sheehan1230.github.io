@@ -1,211 +1,380 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xuehai He Publications</title>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="VLM4D: Towards Spatiotemporal Awareness in Vision Language Models">
+  <meta name="keywords" content="VLM, spatiotemporal reasoning">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VLM4D: Towards Spatiotemporal Awareness in Vision Language Models</title>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5M50F4038N"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-5M50F4038N');
-    </script>
-
-    <style>
-        /* CSS styles */
-        .profile {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .profile-info {
-            margin-left: 20px;
-        }
-
-        .publist {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-        }
-
-        .pub {
-            margin-bottom: 15px;
-        }
-
-        .social-links {
-            display: flex;
-            gap: 15px;
-        }
-
-        h1,
-        h2 {
-            font-weight: bold;
-            color: #333;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 8px;
-            margin-top: 30px;
-        }
-
-        strong {
-            color: #0070f3;
-            font-weight: bold;
-        }
-
-        i {
-            margin-left: 5px;
-            margin-right: 5px;
-            font-style: italic;
-        }
-
-        a {
-            text-decoration: none;
-            color: #0070f3;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/icon.png">
 </head>
-
 <body>
-    <main>
-        <section class="profile">
-            <img src="profile.png" alt="Xuehai He" width="150">
-            <div class="profile-info">
-                <h1>Xuehai He</h1>
-                <p><a href="mailto:xuehaihe2008@gmail.com">xuehaihe2008@gmail.com</a></p>
-                <div class="social-links">
-                    <a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ">Google Scholar</a>
-                    <a href="https://github.com/jkooy">GitHub</a>
-                    <a href="https://twitter.com/XuehaiH">Twitter</a>
-                    <a href="https://www.researchgate.net/profile/Xuehai_He2">ResearchGate</a>
-                </div>
-                <p><strong>Xuehai He</strong> is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Before this, he was at the University of California, San Diego working with Prof. Pengtao Xie. Xuehai began his research from the University of Electronic Science and Technology of China.</p>
-            </div>
-        </section>
+
+
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="icon" href="./static/images/icon.png">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+  <!-- <script src="https://assets.crowd.aws/crowd-html-elements.js"></script> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+
+</section>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">VLM4D: Towards Spatiotemporal Awareness in Vision Language Models</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://ShijieZhou-UCLA.github.io/">Shijie Zhou</a><sup>1*</sup>,</span>
+            <span class="author-block">
+              <a href="https://asvilesov.github.io/">Alexander Vilesov</a><sup>1*</sup>,</span>
+            <span class="author-block">
+              <a href="https://sheehan1230.github.io/">Xuehai He</a><sup>2,3*</sup>,</span>
+            <span class="author-block">
+              <a href="http://raywzy.com/">Ziyu Wan</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href=" ">Shuwang Zhang</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href=" ">Aditya Nagachandra</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href=" ">Di Chang</a><sup>4</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.dongdongchen.bid/">Dongdong Chen</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://eric-xw.github.io/">Xin Eric Wang</a><sup>3</sup>,</span>
+            <span class="author-block">
+              <a href="https://samueli.ucla.edu/people/achuta-kadambi/">Achuta Kadambi</a><sup>1</sup>,</span>
+          </div>
+          
+          <!-- <div class="is-size-5 publication-authors">
+            <span class="author-block">* Equal Contribution</span>
+          </div> -->
+          <style>
+            .univerity-block {
+                margin-right: 14px;
+            }
+          </style>
+          <div class="is-size-5 publication-authors">
+            <span class="univerity-block"><sup>1</sup>UCLA</span>
+            <span class="univerity-block"><sup>2</sup>Microsoft</span>
+            <span class="univerity-block"><sup>3</sup>UCSC</span>
+            <span class="univerity-block"><sup>4</sup>USC</span>
+          </div>
+
+          <div class="is-size-6 publication-authors">
+            <span class="author-block">*Denotes Equal Contribution</span>
+          </div>
+          
+        </div>
         
-
-
-
-
-
-
-<section>
-    <h1>Selected Publications</h1>
-    <div class="publist">
-        <div class="pub">
-            Jiachen Li, Qiaozi Gao, Michael Johnston, Xiaofeng Gao, <strong>Xuehai He</strong>, Suhaila Shakiah, Hangjie Shi, Reza Ghanadan, William Yang Wang. <i>Mastering robot manipulation with multimodal prompts through pretraining and multi-task fine-tuning.</i> ICML, 2024.
-        </div>
-        <div class="pub">
-            Kenan Jiang*, <strong>Xuehai He*</strong>, Ruize Xu, Xin Eric Wang. <i>ComCLIP: Training-Free Compositional Image and Text Matching.</i> NAACL, 2024.
-        </div>
-        <div class="pub">
-            Kaizhi Zheng, Xiaotong Chen, <strong>Xuehai He</strong>, Jing Gu, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Wang, Lijuan Wang, Xin Eric Wang. <i>EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing.</i> ICLR, 2025.
-        </div>
-         <div class="pub">
-            <strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang. <i>MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos.</i> ICLR, 2025.
-        </div>
-        <div class="pub">
-        <strong>Xuehai He</strong>, Jian Zheng, Jacob Zhiyuan Fang, Robinson Piramuthu, Mohit Bansal, Vicente Ordonez, Gunnar A Sigurdsson, Nanyun Peng, Xin Eric Wang. <i>FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation.</i> TMLR, 2024.
-        </div>
-        <div class="pub">
-        Pengtao Xie, Xingchen Zhao, <strong>Xuehai He</strong>. <i>Simultaneous Selection and Adaptation of Source Data via Four-Level Optimization.</i> TACL, 2024.
-        </div>
-        <div class="pub">
-        <strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang. <i>Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners.</i> TMLR, 2024.
-        </div>
-        <div class="pub">
-            Weixi Feng*, Wanrong Zhu*, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, <strong>Xuehai He</strong>, Sugato Basu, Xin Eric Wang, William Yang Wang. <i>LayoutGPT: Compositional Visual Planning and Generation with Large Language Models.</i> NeurIPS, 2023.
-        </div>
-        <div class="pub">
-            Pengtao Xie, Xingchen Zhao, <strong>Xuehai He</strong>. <i>Improve the Performance of CT-based Pneumonia Classification via Source Data Reweighting.</i> Nature Scientific Reports.
-        </div>
-        <div class="pub">
-            <strong>Xuehai He</strong>, Xin Eric Wang. <i>Multimodal Graph Transformer for Multimodal Question Answering.</i> EACL, 2023.
-        </div>
-        <div class="pub">
-            Weixi Feng, <strong>Xuehai He</strong>, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, Pradyumna Narayana, Sugato Basu, Xin Eric Wang, William Yang Wang. <i>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis.</i> ICLR, 2023.
-        </div>
-        <div class="pub">
-            <strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang. <i>Parameter-efficient Model Adaptation for Vision Transformers.</i> AAAI, 2023.
-        </div>
-        <div class="pub">
-            <strong>Xuehai He</strong>, Diji Yang, Weixi Feng, Tsu-Jui Fu, Arjun Akula, Varun Jampani, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang. <i>CPL: Counterfactual Prompt Learning for Vision and Language Models.</i> EMNLP, 2022.
-        </div>
-        <div class="pub">
-            Tarun Gupta, <strong>Xuehai He</strong>, Mostofa Rafid Uddin, Xiangrui Zeng, Andrew Zhou, Jing Zhang, Zachary Freyberg, Min Xu. <i>Self-supervised learning for macromolecular structure classification based on cryo-electron tomograms.</i> Frontiers in Physiology.
-        </div>
-        <div class="pub">
-            <strong>Xuehai He*</strong>, Zhuo Cai*, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing, Pengtao Xie. <i>Towards Visual Question Answering on Pathology Images.</i> ACL, 2021.
-        </div>
-        <div class="pub">
-            Wenmian Yang, Guangtao Zeng, Bowen Tan, Zeqian Ju, Subrato Chakravorty, <strong>Xuehai He</strong>, Shu Chen, Xingyi Yang, Qingyang Wu, Zhou Yu, Eric Xing, Pengtao Xie. <i>On the Generation of Medical Dialogues for COVID-19.</i> ACL, 2021.
-        </div>
+      </div>
     </div>
-</section>
+    <section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <br>
 
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
 
-<section>
-    <h2>Selected Preprints</h2>
-    <div class="publist">
-        <div class="pub">
-            <strong>Xuehai He</strong>, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang. <i>Mojito: Motion Trajectory and Intensity Control for Video Generation.</i> Under reviewing. <a href="https://arxiv.org/abs/2412.08948" target="_blank">[PDF]</a>
+              <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="" 
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-database"></i>
+                  </span>
+                  <span>dataset</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="#leaderboard"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon has-text-white">
+                    <i class="fa-solid fa-trophy"></i>
+                      <!-- <p style="font-size:18px">🏆</p> -->
+                  </span>
+                  <span>Leaderboard</span>
+                </a>
+              </span>
+    </a>
+</span>
+            </div>
+
+          </div>
         </div>
-        <div class="pub">
-            Kaizhi Zheng*, <strong>Xuehai He*</strong>, Xin Eric Wang. <i>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens.</i> Under reviewing. <a href="https://arxiv.org/abs/2310.02239" target="_blank">[PDF]</a>
-        </div>
-        <div class="pub">
-            Kaizhi Zheng*, Kaiwen Zhou*, Jing Gu*, Yue Fan*, Jialu Wang*, Zonglin Di, <strong>Xuehai He</strong>, Xin Eric Wang. <i>JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents.</i> Under reviewing.
-        </div>
-        <div class="pub">
-            <strong>Xuehai He*</strong>, Xingyi Yang*, Shanghang Zhang, Jinyu Zhao, Yichen Zhang, Eric Xing, Pengtao Xie. <i>Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans.</i> Under reviewing. <a href="https://www.medrxiv.org/content/10.1101/2020.04.13.20063941v1" target="_blank">[PDF]</a>
-        </div>
-        <div class="pub">
-            <strong>Xuehai He*</strong>, Xingyi Yang*, Yue Yang, Ruofan Guo, Yuxiao Liang, Shanghang Zhang, Li Du, Pengtao Xie. <i>Supervised Pretraining or Self-supervised Pretraining? A Tale of Two Transfer Learning Paradigms.</i> Preprint arXiv:2007.04234. <a href="https://drive.google.com/file/d/1PvXh9X0f_Fv4EYTWW9G-3lJ2KMfZcZ6X/view?usp=sharing" target="_blank">[PDF]</a>
-        </div>
-        <div class="pub">
-            Xingyi Yang, <strong>Xuehai He</strong>, Jinyu Zhao, Yichen Zhang, Shanghang Zhang, Pengtao Xie. <i>COVID-CT Dataset: A CT Scan Dataset about COVID-19.</i> Preprint arXiv:2003.13865. <a href="https://arxiv.org/pdf/2003.13865.pdf" target="_blank">[PDF]</a>
-        </div>
+      </div>
     </div>
+  </div>
+</section>
+  </div>
+  
 </section>
 
 
 
-<section>
-    <h2>Academic activities</h2>
-    <ul>
-        <li>Conference Reviewer: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21, ICCV'21, CVPR'22, ECCV'22, NeurIPS'22, EMNLP'22, EACL'23, CVPR'23, ACL'23, ICML'23, ICCV'23, NeurIPS'23, EMNLP'23, ACL Rolling'24, ICML'24.</li>
-        <li>Journal Reviewer: 
-            <ul>
-                <li>IEEE Access'19'20;</li>
-                <li>Transactions on Pattern Analysis and Machine Intelligence'24;</li>
-            </ul>
-        </li>
-        <li>Program Committee Member: <a href="https://sslneurips21.github.io/pages/Program%20Committee.html">NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice</a>.</li>
-        <li>Workshop Co-organizer:
-            <ul>
-                <li><a href="https://www.youtube.com/watch?v=mJK53b150eM">AAAI 2021 Workshop -- Trustworthy AI for Healthcare</a>.</li>
-                <li><a href="https://computer-vision-in-the-wild.github.io/eccv-2022/">ECCV 2022 Workshop -- Workshop on Computer Vision in the Wild</a>;</li>
-                <li>CVPR 2024 Workshop -- 4th Workshop on Computer Vision in the Wild</a>;</li>
-            </ul>
-        </li>
-        <li>Workshop Reviewer: 
-            <ul>
-                <li><a href="https://neurips2022-enlsp.github.io/">NeurIPS 2022 Workshop -- Efficient Natural Language and Speech Processing (ENLSP-II) workshop</a>;</li>
-                <li><a href="https://icml21ssl.github.io/pages/Program%20Committee.html">ICML 2021 Workshop -- Self-Supervised Learning for Reasoning and Perception</a>.</li>
-            </ul>
-        </li>
-    </ul>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Vision-language models (VLMs) have shown remarkable capabilities in integrating linguistic and visual reasoning but remain fundamentally limited in understanding dynamic spatiotemporal interactions. Humans effortlessly track and reason about object movements, rotations, and perspective shifts—abilities essential for robust real-world understanding yet notably lacking in current VLMs. In this paper, we introduce VLM4D, the first benchmark specifically designed to evaluate the spatiotemporal reasoning capabilities of VLMs. Our benchmark comprises diverse real-world and synthetic videos accompanied by carefully curated question-answer pairs emphasizing translational and rotational motions, perspective awareness, and motion continuity. Through comprehensive evaluations of state-of-the-art open and closed-source VLMs, we identify significant performance gaps compared to human baselines, highlighting fundamental deficiencies in existing models. Extensive analysis reveals that VLMs struggle particularly with integrating multiple visual cues and maintaining temporal coherence. We further explore promising directions, such as leveraging 4D feature field reconstruction and targeted spatiotemporal supervised fine-tuning, demonstrating their effectiveness in enhancing spatiotemporal comprehension. Our work aims to encourage deeper exploration into improving VLMs’ spatial and temporal grounding, paving the way towards more capable and reliable visual intelligence for dynamic environments.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-fifths">
+        <h2 class="title is-3"><img id="painting_icon" width="7%" src="https://cdn-icons-png.flaticon.com/512/5379/5379860.png"> Spatiotemporal (4D) Awareness. </h2> 
+      </div>
+    </div>
+
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-six-fifths">  
+            <img id="model" width="80%" src="./static/images/figures/teaster_v5.png">
+            <h3 class="subtitle has-text-centered">
+              <p style="font-family:Times New Roman"><b>Figure 1. Spatiotemporal (4D) Awareness. Humans intuitively reason in 4D (3D space + time), effortlessly reconstructing the dynamic spatial trajectory of moving objects from any perspective. In contrast, current Vision Language Models (VLMs) typically rely on aggregating 2D visual features across time, leading to incorrect predictions when motion understanding and interpretation requires deeper spatiotemporal reasoning. In this example, humans correctly perceive the car moving to the right, while the VLM (GPT-4o) inaccurately predicts leftward movement, suggesting VLMs struggle to perform spatiotemporal reasoning. </b></p>
+            </h3>   
+        </div>
+  </div>
+</section>
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-fifths">
+        <h2 class="title is-3"><img id="painting_icon" width="5%" src="https://cdn-icons-png.flaticon.com/512/5379/5379860.png"> Distribution of Dataset Sources and Annotations. </h2> 
+      </div>
+    </div>
+
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-six-fifths">  
+            <img id="model" width="30%" src="./static/images/figures/piechart_dataset_stats.png">
+            <h3 class="subtitle has-text-centered">
+              <p style="font-family:Times New Roman"><b>Figure 2. Distribution of Dataset Sources and Annotations. Breakdown of our dataset illustrating the proportions of data sourced from third-person (Davis, YouTube), first-person (Ego4D), and synthetic data, categorized by annotation types: translational, rotational, action, counting, and false positives. </b></p>
+            </h3>   
+        </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-fifths">
+        <h2 class="title is-3"><img id="painting_icon" width="5%" src="https://cdn-icons-png.flaticon.com/512/5379/5379860.png"> Dataset Generation and Annotation</h2> 
+      </div>
+    </div>
+
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-six-fifths">  
+            <img id="model" width="100%" src="./static/images/figures/dataset_generation_v2.png">
+            <h3 class="subtitle has-text-centered">
+              <p style="font-family:Times New Roman"><b>Figure 3. Dataset Generation and Annotation Pipeline. Our dataset was constructed by collecting real videos and generating synthetic data, followed by human-in-the-loop quality reviews to address ambiguous videos and annotations. After temporal alignment and quality assurance, human-annotated questions and answers were created, complemented by multiple-choice questions generated by large language models (LLMs). The final dataset includes real-world and synthetic video data with comprehensive VLM scoring metrics. </b></p>
+            </h3>   
+        </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-fifths">
+        <h2 class="title is-3"><img id="painting_icon" width="5%" src="https://cdn-icons-png.flaticon.com/512/5379/5379860.png"> Qualitative Examples of Dataset Annotations. </h2> 
+      </div>
+    </div>
+
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-six-fifths">     
+            <img id="model" width="50%" src="./static/images/figures/dataset_qualitative_v3.png">
+            <h3 class="subtitle has-text-centered">
+              <p style="font-family:Times New Roman"><b>Figure 4. (Top) A third-person video with translational annotations ("camel turning left from its perspective"). (Middle) A first-person video with a rotational question ("clockwise rotation of ladle"). (Bottom) A synthetic scene with action recognition "robotic dog moving left".</b></p>
+            </h3>   
+
+
+        </div>
+  </div>
+</section>
+
+
+
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-five-fifths">
+        <h2 class="title is-3"><img id="painting_icon" width="5%" src="https://cdn-icons-png.flaticon.com/512/5379/5379860.png"> Model Performance</h2> 
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-half">  
+        <img id="model" width="100%" src="./static/images/figures/radar_plot.png">
+      </div>
+      <div class="column is-half">  
+        <img id="model" width="100%" src="./static/images/figures/cot_vs_do.png">
+      </div>
+    </div>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full">
+        <h3 class="subtitle has-text-centered">
+          <p style="font-family:Times New Roman"><b>Figure 5. Model Accuracy Across Real Scene Question Categories of top-performing VLMs (left). Comparison of CoT and DO Accuracy Across Models (right).</b></p>
+        </h3>   
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+<section class="section" id="leaderboard">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered m-6">
+      <div class="column is-full has-text-centered content">
+        <h2 class="title is-3">Leaderboard</h2>
+        <div class="content">
+          <div class="content has-text-justified">
+            <p>
+              Evaluation on VLM4D Benchmark across various proprietary and open-source VLMs.
+            </p>
+          </div>    
+          <!-- Validation Set Leaderboard -->
+          <table id="table1" class="js-sort-table">
+            <thead>
+              <tr>
+                <th class="js-sort-string"><strong>Organization</strong></th>
+                <th class="js-sort-string"><strong>Model</strong></th>
+                <th class="js-sort-string"><strong>Release</strong></th>
+                <th class="js-sort-number"><strong>Ego-centric</strong></th>
+                <th class="js-sort-number"><strong>Exo-centric</strong></th>
+                <th class="js-sort-number"><strong>Real Avg</strong></th>
+                <th class="js-sort-number"><strong>Directional</strong></th>
+                <th class="js-sort-number"><strong>FP</strong></th>
+                <th class="js-sort-number"><strong>Synth Avg</strong></th>
+                <th class="js-sort-number"><strong>Overall</strong></th>
+              </tr>
+            </thead>
+              <tbody>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>User Study</td><td>Human Performance</td><td></td><td>99.6</td><td>99.7</td><td>99.7</td><td>91.8</td><td>100.0</td><td>95.9</td><td>98.3</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Random</td><td>Random Selection</td><td></td><td>24.4</td><td>23.2</td><td>23.6</td><td>25.5</td><td>24.7</td><td>25.1</td><td>24.2</td></tr>
+                <tr style="background-color: rgba(255, 200, 200, 0.3);"><td>OpenAI</td><td>GPT-4o</td><td>2024-11</td><td>54.3</td><td>61.2</td><td>58.9</td><td>47.8</td><td>43.0</td><td>45.4</td><td>53.9</td></tr>
+                <tr style="background-color: rgba(255, 200, 200, 0.3);"><td>Google</td><td>Gemini 2.0 Pro</td><td>2025-2</td><td>44.8</td><td>50.5</td><td>48.7</td><td>42.8</td><td>41.8</td><td>42.3</td><td>46.3</td></tr>
+                <tr style="background-color: rgba(255, 200, 200, 0.3);"><td>xAI</td><td>Grok-2-Vision</td><td>2024-12</td><td>44.1</td><td>48.8</td><td>47.3</td><td>49.0</td><td>60.5</td><td>54.8</td><td>50.0</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Meta</td><td>Llama-3.2-11B-Vision</td><td>2024-9</td><td>35.2</td><td>36.1</td><td>35.8</td><td>38.3</td><td>55.8</td><td>47.0</td><td>39.9</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Microsoft</td><td>Phi-3.5-Vision</td><td>2024-7</td><td>36.3</td><td>39.1</td><td>38.2</td><td>26.5</td><td>37.5</td><td>32.0</td><td>35.9</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>DeepSeek</td><td>DeepSeek-VL2-Tiny</td><td>2024-12</td><td>31.4</td><td>32.5</td><td>32.2</td><td>42.8</td><td>25.5</td><td>34.1</td><td>32.9</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Shanghai AI Lab</td><td>InternVL2.5-38B</td><td>2024-11</td><td>42.8</td><td>53.2</td><td>49.7</td><td>37.5</td><td>55.5</td><td>46.5</td><td>48.6</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Shanghai AI Lab</td><td>InternVL2.5-8B</td><td>2024-11</td><td>40.8</td><td>41.1</td><td>41.0</td><td>40.8</td><td>47.0</td><td>43.9</td><td>42.1</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Shanghai AI Lab</td><td>InternVL2-8B</td><td>2024-6</td><td>33.2</td><td>38.2</td><td>36.5</td><td>34.8</td><td>58.0</td><td>46.4</td><td>40.2</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Mistral AI</td><td>Pixtral-12B</td><td>2024-9</td><td>36.3</td><td>32.9</td><td>34.0</td><td>41.0</td><td>17.3</td><td>29.1</td><td>32.2</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Rhymes</td><td>Aria</td><td>2024-11</td><td>42.3</td><td>44.0</td><td>43.5</td><td>35.3</td><td>56.3</td><td>45.8</td><td>44.3</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>HuggingFaceM4</td><td>Idefics3-8B</td><td>2024-8</td><td>34.3</td><td>36.2</td><td>35.6</td><td>33.5</td><td>47.3</td><td>40.4</td><td>37.4</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>H2O</td><td>H2OVL-Mississippi-2B</td><td>2024-10</td><td>37.0</td><td>33.3</td><td>34.5</td><td>27.3</td><td>41.0</td><td>34.1</td><td>34.4</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Alibaba</td><td>Qwen2.5-VL-7B</td><td>2025-1</td><td>42.3</td><td>45.0</td><td>44.1</td><td>39.3</td><td>48.5</td><td>43.9</td><td>44.0</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Alibaba</td><td>Qwen2.5-VL-72B-AWQ</td><td>2025-1</td><td>49.9</td><td>48.7</td><td>49.1</td><td>54.3</td><td>72.8</td><td>63.5</td><td>54.4</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Alibaba</td><td>Qwen2-VL-7B</td><td>2024-8</td><td>36.1</td><td>38.2</td><td>37.5</td><td>38.5</td><td>40.3</td><td>39.4</td><td>38.2</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>Alibaba</td><td>Qwen2-VL-72B-AWQ</td><td>2024-9</td><td>43.0</td><td>46.2</td><td>45.2</td><td>43.8</td><td>71.0</td><td>57.4</td><td>49.7</td></tr>
+                <tr style="background-color: rgba(200, 200, 255, 0.3);"><td>DAMO</td><td>VideoLLama3-2B</td><td>2025-1</td><td>48.6</td><td>43.7</td><td>45.3</td><td>29.0</td><td>69.8</td><td>49.4</td><td>46.8</td></tr>
+                <!-- Continue with remaining rows... -->
+                </tbody>
+                
+            </tbody>
+          </table>
+          <div class="model-labels-container">
+            <span class="leaderboard-label" style="background-color: rgba(200, 200, 255, 1); margin-right: 30px;">Open-Source</span>
+            <span class="leaderboard-label" style="background-color: rgba(255, 200, 200, 1);">Proprietary</span>
+          </div>
+          <p> More models are coming. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is adapted from <a rel="license"
+            href="https://github.com/nerfies/nerfies.github.io">Nerfies</a> and <a rel="license"
+            href="https://gligen.github.io/">GLIGEN</a>, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
 </body>
 </html>
