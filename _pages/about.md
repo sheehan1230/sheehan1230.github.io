@@ -1,180 +1,80 @@
-<!doctype html>
-<html lang="en" class="no-js">
-<head>
-<meta charset="utf-8">
-<title>Xuehai He - Homepage</title>
-<meta property="og:locale" content="en">
-<meta property="og:site_name" content="Xuehai He">
-<meta property="og:title" content="Xuehai He">
-<link rel="canonical" href="https://yourwebsite.com/">
-<meta property="og:url" content="https://yourwebsite.com/">
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script>document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';</script>
-<link rel="stylesheet" href="assets/css/main.css">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-<meta http-equiv="cleartype" content="on">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
-<style>
-body {
-  font-family: 'Inter', sans-serif;
-}
-.paper-box {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  border-radius: 12px;
-  overflow: hidden;
-  margin-bottom: 30px;
-}
-.paper-box-image img {
-  width: 100%;
-  display: block;
-}
-.paper-box-text {
-  padding: 15px;
-}
-ul li i {
-  margin-right: 8px;
-}
-section {
-  padding: 40px 20px;
-}
-.badge {
-  background: #3498db;
-  color: white;
-  padding: 2px 6px;
-  margin-left: 6px;
-  border-radius: 6px;
-  font-size: 12px;
-  text-decoration: none;
-}
-.badge:hover {
-  background: #2980b9;
-}
-</style>
-</head>
+---
+layout: home
+title: "Xuehai He"
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-<body>
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          <li class="masthead__menu-item"><a href="#about-me">About Me</a></li>
-          <li class="masthead__menu-item"><a href="#news">News</a></li>
-          <li class="masthead__menu-item"><a href="#selected-publications">Selected Publications</a></li>
-          <li class="masthead__menu-item"><a href="#preprints">Preprints</a></li>
-          <li class="masthead__menu-item"><a href="#service">Service</a></li>
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+# About Me
+**Xuehai He** is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Prof. Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.
 
-<div id="main" role="main">
-<div class="sidebar sticky">
-  <div itemscope itemtype="http://schema.org/Person" class="profile_box">
-    <div class="author__avatar">
-      <img src="images/profile.png" class="author__avatar" alt="Xuehai He">
-    </div>
-    <div class="author__content">
-      <h3 class="author__name">Xuehai He</h3>
-      <p class="author__bio">Ph.D. in Computer Science, UC Santa Cruz</p>
-    </div>
-    <div class="author__urls-wrapper">
-      <ul class="author__urls social-icons">
-        <li><a href="mailto:xuehaihe2008@gmail.com"><i class="fas fa-fw fa-envelope"></i> Email</a></li>
-        <li><a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-        <li><a href="https://github.com/jkooy"><i class="fab fa-fw fa-github"></i> GitHub</a></li>
-        <li><a href="https://twitter.com/XuehaiH"><i class="fab fa-fw fa-twitter"></i> Twitter</a></li>
-        <li><a href="https://www.researchgate.net/profile/Xuehai_He2"><i class="fab fa-fw fa-researchgate"></i> ResearchGate</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
+# 🔥 News
+- 🎯 **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild. Host our MMWorld benchmark there.
+- 🏆 **2025.02**: One paper accepted to CVPR 2025.
+- 🏅 **2025.01**: Two papers accepted to ICLR 2025.
+- 💼 **2024.01**: Join Microsoft as a research intern again.
 
-<article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-<div class="page__inner-wrap">
-<section class="page__content" itemprop="text">
+# 📝 Selected Publications
+* indicates equal contribution
 
-<p><span class="anchor" id="about-me"></span></p>
-<p><strong>Xuehai He</strong> is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Prof. Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.</p>
-
-<h1 id="news">🔥 News</h1>
-<ul>
-  <li><i class="fas fa-chalkboard-teacher" style="color:#3498db"></i> 2025.02: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild. Host our MMWorld benchmark there.</li>
-  <li><i class="fas fa-trophy" style="color:#e67e22"></i> 2025.02: One paper accepted to CVPR 2025.</li>
-  <li><i class="fas fa-award" style="color:#f39c12"></i> 2025.01: Two papers accepted to ICLR 2025.</li>
-  <li><i class="fas fa-briefcase" style="color:#2ecc71"></i> 2024.01: Join Microsoft as a research intern again.</li>
-</ul>
-
-<h1 id="selected-publications">📝 Selected Publications</h1>
-<p>* indicates equal contribution</p>
 <div class="publist">
 <div class="paper-box">
   <div class="paper-box-image"><img src="images/mmworld.png" alt="MMWorld"></div>
   <div class="paper-box-text">
-    <strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang. <i>MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos.</i> ICLR, 2025. <a href="https://yourwebsite.com/default_project.html">[Project]</a>
+    <strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.  
+    <i>MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos.</i>  
+    ICLR, 2025. [<a class="badge" href="https://yourwebsite.com/default_project.html" target="_blank">Project</a>]
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image"><img src="images/discffusion.png" alt="Discffusion"></div>
   <div class="paper-box-text">
-    <strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang. <i>Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners.</i> TMLR, 2024. <a href="https://yourwebsite.com/default_project.html">[Project]</a>
+    <strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang.  
+    <i>Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners.</i>  
+    TMLR, 2024. [<a class="badge" href="https://yourwebsite.com/default_project.html" target="_blank">Project</a>]
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation"></div>
   <div class="paper-box-text">
-    <strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang. <i>Parameter-efficient Model Adaptation for Vision Transformers.</i> AAAI, 2023. <a href="https://yourwebsite.com/default_project.html">[Project]</a>
+    <strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.  
+    <i>Parameter-efficient Model Adaptation for Vision Transformers.</i>  
+    AAAI, 2023. [<a class="badge" href="https://yourwebsite.com/default_project.html" target="_blank">Project</a>]
   </div>
 </div>
 </div>
 
-<h1 id="preprints">📰 Selected Preprints</h1>
-<div class="publist">
-<div class="pub">
-  <strong>Xuehai He</strong>, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang. <i>Mojito: Motion Trajectory and Intensity Control for Video Generation.</i> <a href="https://arxiv.org/abs/2412.08948">[PDF]</a> <a href="https://yourwebsite.com/default_project.html">[Project]</a>
-</div>
-<div class="pub">
-  Kaizhi Zheng*, <strong>Xuehai He*</strong>, Xin Eric Wang. <i>MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens.</i> <a href="https://arxiv.org/abs/2310.02239">[PDF]</a> <a href="https://yourwebsite.com/default_project.html">[Project]</a>
-</div>
-</div>
+# 📰 Selected Preprints
 
-<h1 id="service">🚲 Service</h1>
-<ul>
-  <li><i class="fas fa-clipboard-list" style="color:#2ecc71"></i> Conference Reviewer: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21-'24, ICCV'21-'23, ECCV'22, NeurIPS'22-'23, EMNLP'22-'23, ACL'23-'24, ICML'23-'24.</li>
-  <li><i class="fas fa-pen-nib" style="color:#3498db"></i> Journal Reviewer: IEEE Access'19'20; TPAMI'24.</li>
-  <li><i class="fas fa-users" style="color:#f39c12"></i> Program Committee Member:
-    <ul style="margin-top: 8px;">
-      <li>NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [<a href="https://sslneurips21.github.io/pages/Program%20Committee.html" target="_blank">Link</a>]</li>
-    </ul>
-  </li>
-  <li><i class="fas fa-handshake" style="color:#e74c3c"></i> Workshop Co-organizer:
-    <ul style="margin-top: 8px;">
-      <li>AAAI 2021: Trustworthy AI for Healthcare [<a href="https://www.youtube.com/watch?v=mJK53b150eM" target="_blank">Link</a>]</li>
-      <li>ECCV 2022: Workshop on Computer Vision in the Wild [<a href="https://computer-vision-in-the-wild.github.io/eccv-2022/" target="_blank">Link</a>]</li>
-      <li>CVPR 2024: 4th Workshop on Computer Vision in the Wild</li>
-    </ul>
-  </li>
-  <li><i class="fas fa-search" style="color:#9b59b6"></i> Workshop Reviewer:
-    <ul style="margin-top: 8px;">
-      <li>NeurIPS 2022: Efficient Natural Language and Speech Processing (ENLSP-II) [<a href="https://neurips2022-enlsp.github.io/" target="_blank">Link</a>]</li>
-      <li>ICML 2021: Self-Supervised Learning for Reasoning and Perception [<a href="https://icml21ssl.github.io/pages/Program%20Committee.html" target="_blank">Link</a>]</li>
-    </ul>
-  </li>
-</ul>
+- **Xuehai He**, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang.  
+  *Mojito: Motion Trajectory and Intensity Control for Video Generation.*  
+  [PDF](https://arxiv.org/abs/2412.08948) | [<span class="badge">Project</span>](https://yourwebsite.com/default_project.html)
 
-</section>
-</div>
-</article>
-</div>
+- Kaizhi Zheng*, **Xuehai He***, Xin Eric Wang.  
+  *MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens.*  
+  [PDF](https://arxiv.org/abs/2310.02239) | [<span class="badge">Project</span>](https://yourwebsite.com/default_project.html)
 
-<script src="assets/js/main.min.js"></script>
-</body>
-</html>
+# 🚲 Service
+
+- 🗒️ **Conference Reviewer**: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21-'24, ICCV'21-'23, ECCV'22, NeurIPS'22-'23, EMNLP'22-'23, ACL'23-'24, ICML'23-'24.
+
+- ✒️ **Journal Reviewer**: IEEE Access'19'20; Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'24.
+
+- 👥 **Program Committee Member**:
+  - NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [ [Link](https://sslneurips21.github.io/pages/Program%20Committee.html) ]
+
+- 🤝 **Workshop Co-organizer**:
+  - AAAI 2021: Trustworthy AI for Healthcare [ [Link](https://www.youtube.com/watch?v=mJK53b150eM) ]
+  - ECCV 2022: Workshop on Computer Vision in the Wild [ [Link](https://computer-vision-in-the-wild.github.io/eccv-2022/) ]
+  - CVPR 2024: 4th Workshop on Computer Vision in the Wild
+
+- 🔍 **Workshop Reviewer**:
+  - NeurIPS 2022: Efficient Natural Language and Speech Processing (ENLSP-II) [ [Link](https://neurips2022-enlsp.github.io/) ]
+  - ICML 2021: Self-Supervised Learning for Reasoning and Perception [ [Link](https://icml21ssl.github.io/pages/Program%20Committee.html) ]
