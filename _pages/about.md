@@ -13,9 +13,9 @@ redirect_from:
 **Xuehai He** is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.
 
 # 📰 News
-- 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild 🎉. Host our MMWorld benchmark there 🔥.
+- 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild.🎉 Host our MMWorld benchmark there.🔥
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
-- 🥇 **2025.01**: Two papers accepted to ICLR 2025 🚀.
+- 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
 - 🥈 **2024.08**: One paper accepted to TMLR 2024.
 - 🧑‍💻 **2024.01**: Rejoin Microsoft as a research intern.
 
@@ -68,18 +68,67 @@ The symbol * indicates equal contribution
 
 <div class="paper-box-text">
   <h2 style="margin-top: 0;">VLM4D: Towards Spatiotemporal Awareness in Vision Language Models</h2>
-  <p>Shijie Zhou*, Alexander Vilesov*, Xuehai He*, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi.<br>
+  <p>Shijie Zhou*, Alexander Vilesov*, <strong>Xuehai He*</strong>, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi.<br>
   [<a href="https://vlm4d.github.io/file/VLM4D.pdf">PDF</a>]</p>
 </div>
 </div>
 
 
-# 🔍 Full Publication List
+# 🔍 Publications
+
+See <a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAA">Google Scholar for fully updated one</a>.
 
 <details>
-<summary><b>Click to expand full publication list</b></summary>
+<summary><b>Click to expand publications</b></summary>
 
-You can find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ).
+<div class="pub">
+            Jiachen Li, Qiaozi Gao, Michael Johnston, Xiaofeng Gao, <strong>Xuehai He</strong>, Suhaila Shakiah, Hangjie Shi, Reza Ghanadan, William Yang Wang. <i>Mastering robot manipulation with multimodal prompts through pretraining and multi-task fine-tuning.</i> ICML, 2024.
+        </div>
+        <div class="pub">
+            Kenan Jiang*, <strong>Xuehai He*</strong>, Ruize Xu, Xin Eric Wang. <i>ComCLIP: Training-Free Compositional Image and Text Matching.</i> NAACL, 2024.
+        </div>
+        <div class="pub">
+            Kaizhi Zheng, Xiaotong Chen, <strong>Xuehai He</strong>, Jing Gu, Linjie Li, Zhengyuan Yang, Kevin Lin, Jianfeng Wang, Lijuan Wang, Xin Eric Wang. <i>EditRoom: LLM-parameterized Graph Diffusion for Composable 3D Room Layout Editing.</i> ICLR, 2025.
+        </div>
+         <div class="pub">
+            <strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang. <i>MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos.</i> ICLR, 2025.
+        </div>
+        <div class="pub">
+        <strong>Xuehai He</strong>, Jian Zheng, Jacob Zhiyuan Fang, Robinson Piramuthu, Mohit Bansal, Vicente Ordonez, Gunnar A Sigurdsson, Nanyun Peng, Xin Eric Wang. <i>FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation.</i> TMLR, 2024.
+        </div>
+        <div class="pub">
+        Pengtao Xie, Xingchen Zhao, <strong>Xuehai He</strong>. <i>Simultaneous Selection and Adaptation of Source Data via Four-Level Optimization.</i> TACL, 2024.
+        </div>
+        <div class="pub">
+        <strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang. <i>Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners.</i> TMLR, 2024.
+        </div>
+        <div class="pub">
+            Weixi Feng*, Wanrong Zhu*, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, <strong>Xuehai He</strong>, Sugato Basu, Xin Eric Wang, William Yang Wang. <i>LayoutGPT: Compositional Visual Planning and Generation with Large Language Models.</i> NeurIPS, 2023.
+        </div>
+        <div class="pub">
+            Pengtao Xie, Xingchen Zhao, <strong>Xuehai He</strong>. <i>Improve the Performance of CT-based Pneumonia Classification via Source Data Reweighting.</i> Nature Scientific Reports.
+        </div>
+        <div class="pub">
+            <strong>Xuehai He</strong>, Xin Eric Wang. <i>Multimodal Graph Transformer for Multimodal Question Answering.</i> EACL, 2023.
+        </div>
+        <div class="pub">
+            Weixi Feng, <strong>Xuehai He</strong>, Tsu-Jui Fu, Varun Jampani, Arjun Reddy Akula, Pradyumna Narayana, Sugato Basu, Xin Eric Wang, William Yang Wang. <i>Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis.</i> ICLR, 2023.
+        </div>
+        <div class="pub">
+            <strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang. <i>Parameter-efficient Model Adaptation for Vision Transformers.</i> AAAI, 2023.
+        </div>
+        <div class="pub">
+            <strong>Xuehai He</strong>, Diji Yang, Weixi Feng, Tsu-Jui Fu, Arjun Akula, Varun Jampani, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang. <i>CPL: Counterfactual Prompt Learning for Vision and Language Models.</i> EMNLP, 2022.
+        </div>
+        <div class="pub">
+            Tarun Gupta, <strong>Xuehai He</strong>, Mostofa Rafid Uddin, Xiangrui Zeng, Andrew Zhou, Jing Zhang, Zachary Freyberg, Min Xu. <i>Self-supervised learning for macromolecular structure classification based on cryo-electron tomograms.</i> Frontiers in Physiology.
+        </div>
+        <div class="pub">
+            <strong>Xuehai He*</strong>, Zhuo Cai*, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing, Pengtao Xie. <i>Towards Visual Question Answering on Pathology Images.</i> ACL, 2021.
+        </div>
+        <div class="pub">
+            Wenmian Yang, Guangtao Zeng, Bowen Tan, Zeqian Ju, Subrato Chakravorty, <strong>Xuehai He</strong>, Shu Chen, Xingyi Yang, Qingyang Wu, Zhou Yu, Eric Xing, Pengtao Xie. <i>On the Generation of Medical Dialogues for COVID-19.</i> ACL, 2021.
+        </div>
 
 </details>
 
