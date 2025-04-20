@@ -20,7 +20,7 @@ redirect_from:
 - 🧑‍💻 **2024.01**: Rejoin Microsoft as a research intern.
 
 # 📝 Selected Publications
-* indicates equal contribution
+The symbol * indicates equal contribution
 
 <div class="publist">
 <div class="paper-box">
@@ -64,6 +64,12 @@ redirect_from:
   <h2 style="margin-top: 0;">MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</h2>
   <p>Kaizhi Zheng*, <strong>Xuehai He*</strong>, Xin Eric Wang.<br>
   [<a href="https://arxiv.org/abs/2310.02239">PDF</a>]</p>
+</div>
+
+<div class="paper-box-text">
+  <h2 style="margin-top: 0;">VLM4D: Towards Spatiotemporal Awareness in Vision Language Models</h2>
+  <p>Shijie Zhou*, Alexander Vilesov*, Xuehai He*, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi.<br>
+  [<a href="https://vlm4d.github.io/file/VLM4D.pdf">PDF</a>]</p>
 </div>
 </div>
 
