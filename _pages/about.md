@@ -13,11 +13,11 @@ redirect_from:
 **Xuehai He** is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.
 
 # 📰 News
-- 🛠️ **2025.02**: Co-organized the CVPR 2025 Workshop -- Computer Vision in the Wild. Hosted our MMWorld benchmark there.
+- 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild. Host our MMWorld benchmark there.
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
 - 🥇 **2025.01**: Two papers accepted to ICLR 2025.
 - 🥈 **2024.08**: One paper accepted to TMLR 2024.
-- 🧑‍💻 **2024.01**: Rejoined Microsoft as a research intern.
+- 🧑‍💻 **2024.01**: Rejoin Microsoft as a research intern.
 
 # 📝 Selected Publications
 * indicates equal contribution
@@ -27,8 +27,8 @@ redirect_from:
   <div class="paper-box-image"><img src="images/mmworld.png" alt="MMWorld"></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos</h2>
-    <p><strong>Xuehai He</strong>, Weixi Feng, Kaizhi Zheng, Yujie Lu, Wanrong Zhu, Jiachen Li, Yue Fan, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.<br>
-    <em>ICLR, 2025.</em> [<a href="https://yourwebsite.com/default_project.html">Project</a>]</p>
+    <p><strong>Xuehai He</strong>, Weixi Feng*, Kaizhi Zheng*, Yujie Lu*, Wanrong Zhu*, Jiachen Li*, Yue Fan*, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.<br>
+    <em>ICLR, 2025.</em> [<a href="https://mmworld-bench.github.io/">Project Website</a>]</p>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ redirect_from:
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners</h2>
     <p><strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang.<br>
-    <em>TMLR, 2024.</em> [<a href="https://yourwebsite.com/default_project.html">Project</a>]</p>
+    <em>TMLR, 2024.</em> [<a href="https://sites.google.com/view/discffusion">Project Website</a>]</p>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ redirect_from:
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Parameter-efficient Model Adaptation for Vision Transformers</h2>
     <p><strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.<br>
-    <em>AAAI, 2023.</em> [<a href="https://yourwebsite.com/default_project.html">Project</a>]</p>
+    <em>AAAI, 2023.</em> [<a href="https://sites.google.com/view/pevit">Project Website</a>]</p>
   </div>
 </div>
 </div>

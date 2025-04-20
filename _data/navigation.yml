@@ -9,14 +9,8 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Experience"
     url: "/#-experience"
-
-  - title: "Teaching"
-    url: "/#-teaching"
 
   - title: "Service"
     url: "/#-service"
