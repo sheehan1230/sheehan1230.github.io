@@ -67,6 +67,17 @@ redirect_from:
 </div>
 </div>
 
+
+# 🔍 Full Publication List
+
+<details>
+<summary><b>Click to expand full publication list</b></summary>
+
+You can find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAAJ).
+
+</details>
+
+
 # 🚲 Service
 
 - 🗒️ **Conference Reviewer**: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21-'24, ICCV'21-'23, ECCV'22, NeurIPS'22-'23, EMNLP'22-'23, ACL'23-'24, ICML'23-'24.
