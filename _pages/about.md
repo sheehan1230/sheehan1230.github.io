@@ -71,7 +71,9 @@ redirect_from:
 
 - 🗒️ **Conference Reviewer**: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21-'24, ICCV'21-'23, ECCV'22, NeurIPS'22-'23, EMNLP'22-'23, ACL'23-'24, ICML'23-'24.
 
-- ✒️ **Journal Reviewer**: IEEE Access'19'20; Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'24.
+- ✒️ **Journal Reviewer**: 
+    - IEEE Access'19'20
+    - Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'24
 
 - 👥 **Program Committee Member**:
   - NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [[Link](https://sslneurips21.github.io/pages/Program%20Committee.html)]
