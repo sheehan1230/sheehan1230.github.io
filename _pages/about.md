@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About Me
-**Xuehai He** is a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Machine Learning. Previously, he was at UC San Diego working with Pengtao Xie. He began his research at the University of Electronic Science and Technology of China.
+**Xuehai He** was a Ph.D. in Computer Science at the University of California, Santa Cruz working with Xin Eric Wang. His research work mainly revolves around Multimodal Learning and Generative AI. Previously, he was at University of California, San Diego working with Pengtao Xie. He began his research and undergraduate study at the University of Electronic Science and Technology of China from the beautiful city, Chengdu in China.
 
 # 📰 News
 - 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild.🎉 Host our MMWorld benchmark there.🔥
