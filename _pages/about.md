@@ -67,9 +67,9 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box-text">
-  <h2 style="margin-top: 0;">VLM4D: Towards Spatiotemporal Awareness in Vision Language Models</h2>
-  <p>Shijie Zhou*, Alexander Vilesov*, <strong>Xuehai He*</strong>, Ziyu Wan, Shuwang Zhang, Aditya Nagachandra, Di Chang, Dongdong Chen, Xin Eric Wang, Achuta Kadambi.<br>
-  [<a href="https://vlm4d.github.io/file/VLM4D.pdf">PDF</a>]</p>
+  <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
+  <p>Zhen Zhang*, Xuehai He*, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
+  [<a href="https://arxiv.org/abs/2505.15778">PDF</a>]</p>
 </div>
 </div>
 
