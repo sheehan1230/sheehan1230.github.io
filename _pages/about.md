@@ -68,7 +68,7 @@ The symbol * indicates equal contribution
 
 <div class="paper-box-text">
   <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
-  <p><strong>Zhen Zhang</strong>, <strong>Xuehai He</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
+  <p>Zhen Zhang, <strong>Xuehai He</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
   [<a href="https://arxiv.org/abs/2505.15778">PDF</a>]</p>
 </div>
 </div>
