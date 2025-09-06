@@ -17,7 +17,6 @@ redirect_from:
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
 - 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
 - 🥈 **2024.08**: One paper accepted to TMLR 2024.
-- 🧑‍💻 **2024.01**: Rejoin Microsoft as a research intern.
 
 # 📝 Selected Publications
 The symbol * indicates equal contribution
