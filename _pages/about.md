@@ -13,7 +13,7 @@ redirect_from:
 **Xuehai He** is a researcher at Microsoft GenAI, working on OpenAI and Microsoft model training. He completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. His PhD research work mainly revolved around Multimodal Learning and Generative AI. He was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. He began his research and undergraduate at the University of Electronic Science and Technology of China from the beautiful city, Chengdu in China.
 
 # 📰 News
-- 🧑‍💻 **2024.01**: One paper accepted to ICCV 2025.
+- 🧑‍💻 **2025.07**: One paper accepted to ICCV 2025.
 - 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild.🎉 Host our MMWorld benchmark there.🔥
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
 - 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
@@ -68,7 +68,7 @@ The symbol * indicates equal contribution
 
 <div class="paper-box-text">
   <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
-  <p>Zhen Zhang, <strong>Xuehai He</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
+  <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
   [<a href="https://arxiv.org/abs/2505.15778">PDF</a>]</p>
 </div>
 </div>
