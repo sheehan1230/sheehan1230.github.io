@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-**Xuehai He** is a researcher at Microsoft GenAI, working on OpenAI and Microsoft model training. He completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. His PhD research work mainly revolved around Multimodal Learning and Generative AI. He was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. He began his research and undergraduate at the University of Electronic Science and Technology of China from the beautiful city, Chengdu in China.
+I am a researcher at Microsoft GenAI, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. My PhD research work mainly revolved around Multimodal Learning and Generative AI. I was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. Before that, I began my research and undergraduate at the University of Electronic Science and Technology of China.
 
 # 📰 News
 - 🧑‍💻 **2025.07**: One paper accepted to ICCV 2025.
