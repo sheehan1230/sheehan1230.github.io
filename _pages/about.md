@@ -13,7 +13,7 @@ redirect_from:
 I am a researcher at Microsoft GenAI, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. Before that, I began my research and undergraduate at the University of Electronic Science and Technology of China.
 
 # 📰 News
-- 🧑‍💻 **2025.07**: One paper accepted to ICCV 2025.
+- 🧑‍💻 **2025.07**: One paper accepted to ICCV and three papers accepted to NeurIPs 2025.
 - 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild.🎉 Host our MMWorld benchmark there.🔥
 - 🏆 **2025.02**: One paper accepted to CVPR 2025.
 - 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
