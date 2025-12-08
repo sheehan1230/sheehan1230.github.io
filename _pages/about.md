@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-I am a researcher at Microsoft GenAI, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. Before that, I began my research and undergraduate at the University of Electronic Science and Technology of China.
+I am a researcher at Microsoft AI, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. Before that, I began my research and undergraduate at the University of Electronic Science and Technology of China.
 
 # 📰 News
 - 🧑‍💻 **2025.07**: One paper accepted to ICCV, three papers accepted to NeurIPs 2025, and one paper accepted to WACV.
@@ -58,12 +58,6 @@ The symbol * indicates equal contribution
   <h2 style="margin-top: 0;">Mojito: Motion Trajectory and Intensity Control for Video Generation</h2>
   <p><strong>Xuehai He</strong>, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang.<br>
   [<a href="https://arxiv.org/abs/2412.08948">PDF</a>]</p>
-</div>
-
-<div class="paper-box-text">
-  <h2 style="margin-top: 0;">MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens</h2>
-  <p>Kaizhi Zheng*, <strong>Xuehai He*</strong>, Xin Eric Wang.<br>
-  [<a href="https://arxiv.org/abs/2310.02239">PDF</a>]</p>
 </div>
 
 <div class="paper-box-text">
