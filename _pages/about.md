@@ -33,7 +33,7 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/soft.png" alt="soft" style="height:100px; width:auto;"></div>
+  <div class="paper-box-image"><img src="images/soft.png" alt="soft" style="height:120px; width:300px;"></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
     <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
@@ -42,7 +42,7 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation" style="height:120px; width:auto;"></div>
+  <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation" style="height:140px; width:250px;"></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Parameter-efficient Model Adaptation for Vision Transformers</h2>
     <p><strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.<br>
