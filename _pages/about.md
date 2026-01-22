@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-I am a researcher at Microsoft AI Superintelligence Team, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Pengtao Xie on machine learning and AI for healthcare. Before that, I began my research and undergraduate at the University of Electronic Science and Technology of China.
+I am an AI researcher at Microsoft AI Superintelligence Team, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Prof. Pengtao Xie on machine learning and AI for healthcare. Before that, I completed my B.S. at the University of Electronic Science and Technology of China.
 
 # 📰 News
 - 🧑‍💻 **2025.07**: One paper accepted to ICCV, three papers accepted to NeurIPs 2025, and one paper accepted to WACV.
@@ -19,7 +19,7 @@ I am a researcher at Microsoft AI Superintelligence Team, working on OpenAI and 
 - 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
 - 🥈 **2024.08**: One paper accepted to TMLR 2024.
 
-# 📝 Selected Publications
+# 📝 Recent Papers
 The symbol * indicates equal contribution
 
 <div class="publist">
@@ -33,11 +33,11 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/discffusion.png" alt="Discffusion"></div>
+  <div class="paper-box-image"><img src="images/soft.png" alt="soft"></div>
   <div class="paper-box-text">
-    <h2 style="margin-top: 0;">Discffusion: Discriminative Diffusion Models as Few-shot Vision and Language Learners</h2>
-    <p><strong>Xuehai He</strong>, Weixi Feng, Tsu-Jui Fu, Varun Jampani, Arjun Akula, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang.<br>
-    <em>TMLR, 2024.</em> [<a href="https://sites.google.com/view/discffusion">Project Website</a>]</p>
+    <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
+    <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
+    <em>NeurIPS, 2025.</em> [<a href="https://soft-thinking.github.io/">Project Website</a>]</p>
   </div>
 </div>
 
@@ -48,22 +48,6 @@ The symbol * indicates equal contribution
     <p><strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.<br>
     <em>AAAI, 2023.</em> [<a href="https://sites.google.com/view/pevit">Project Website</a>]</p>
   </div>
-</div>
-</div>
-
-# 📝 Selected Preprints
-
-<div class="publist">
-<div class="paper-box-text">
-  <h2 style="margin-top: 0;">Mojito: Motion Trajectory and Intensity Control for Video Generation</h2>
-  <p><strong>Xuehai He</strong>, Shuohang Wang, Jianwei Yang, Xiaoxia Wu, Yiping Wang, Kuan Wang, Zheng Zhan, Olatunji Ruwase, Yelong Shen, Xin Eric Wang.<br>
-  [<a href="https://arxiv.org/abs/2412.08948">PDF</a>]</p>
-</div>
-
-<div class="paper-box-text">
-  <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
-  <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
-  [<a href="https://arxiv.org/abs/2505.15778">PDF</a>]</p>
 </div>
 </div>
 
