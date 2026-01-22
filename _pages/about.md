@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-I am an AI researcher at Microsoft AI Superintelligence Team, working on OpenAI and Microsoft model training. I completed a Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Prof. Pengtao Xie on machine learning and AI for healthcare. Before that, I completed my B.S. at the University of Electronic Science and Technology of China.
+I am an AI researcher at Microsoft AI Superintelligence Team, working on OpenAI and Microsoft model training. I did my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around generative AI, agentic AI, and multimodal learning. I was at the University of California, San Diego working with Prof. Pengtao Xie on machine learning and AI for healthcare. Before that, I completed my B.S. at the University of Electronic Science and Technology of China.
 
 # 📰 News
 - 🧑‍💻 **2025.07**: One paper accepted to ICCV, three papers accepted to NeurIPs 2025, and one paper accepted to WACV.
@@ -24,7 +24,7 @@ The symbol * indicates equal contribution
 
 <div class="publist">
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/mmworld.png" alt="MMWorld"></div>
+  <div class="paper-box-image"><img src="images/mmworld.png" alt="MMWorld" style="height:auto; width:auto;"></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos</h2>
     <p><strong>Xuehai He</strong>, Weixi Feng*, Kaizhi Zheng*, Yujie Lu*, Wanrong Zhu*, Jiachen Li*, Yue Fan*, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.<br>
@@ -33,7 +33,7 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/soft.png" alt="soft"></div>
+  <div class="paper-box-image"><img src="images/soft.png" alt="soft" style="height:auto; width:auto;></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
     <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
@@ -42,7 +42,7 @@ The symbol * indicates equal contribution
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation"></div>
+  <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation" style="height:auto; width:auto;></div>
   <div class="paper-box-text">
     <h2 style="margin-top: 0;">Parameter-efficient Model Adaptation for Vision Transformers</h2>
     <p><strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.<br>
