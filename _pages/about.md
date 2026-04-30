@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around LLM, agent, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I completed my B.S. and started ML research at the University of Electronic Science and Technology of China.
+Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around LLM, agentic training, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I completed my B.S. and started ML research at the University of Electronic Science and Technology of China.
 
 # 📰 News
 - 🧑‍💻 **2025.07**: One paper accepted to ICCV, three papers accepted to NeurIPs 2025, and one paper accepted to WACV.
