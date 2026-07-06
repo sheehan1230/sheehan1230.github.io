@@ -10,46 +10,8 @@ redirect_from:
 ---
 
 # 💼 About
-Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved around LLM, agents, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I completed my B.S. and started ML research at the University of Electronic Science and Technology of China.
+Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved topics around large language models, agents, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I completed my B.S. and started ML research at the University of Electronic Science and Technology of China.
 
-# 📰 News
-- 🧑‍💻 **2025.07**: One paper accepted to ICCV, three papers accepted to NeurIPs 2025, and one paper accepted to WACV.
-- 🛠️ **2025.02**: Co-organize the CVPR 2025 Workshop -- Computer Vision in the Wild.🎉 Host our MMWorld benchmark there.🔥
-- 🏆 **2025.02**: One paper accepted to CVPR 2025.
-- 🥇 **2025.01**: Two papers accepted to ICLR 2025.🚀
-- 🥈 **2024.08**: One paper accepted to TMLR 2024.
-
-# 📝 Recent Papers
-The symbol * indicates equal contribution
-
-<div class="publist">
-<div class="paper-box">
-  <div class="paper-box-image"><img src="images/mmworld.png" alt="MMWorld"></div>
-  <div class="paper-box-text">
-    <h2 style="margin-top: 0;">MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos</h2>
-    <p><strong>Xuehai He</strong>, Weixi Feng*, Kaizhi Zheng*, Yujie Lu*, Wanrong Zhu*, Jiachen Li*, Yue Fan*, Jianfeng Wang, Linjie Li, Zhengyuan Yang, Kevin Lin, William Yang Wang, Lijuan Wang, Xin Eric Wang.<br>
-    <em>ICLR, 2025.</em> [<a href="https://mmworld-bench.github.io/">Project Website</a>]</p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image"><img src="images/soft.png" alt="soft"></div>
-  <div class="paper-box-text">
-    <h2 style="margin-top: 0;">Soft thinking: Unlocking the reasoning potential of llms in continuous concept space</h2>
-    <p>Zhen Zhang*, <strong>Xuehai He*</strong>, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang.<br>
-    <em>NeurIPS, 2025.</em> [<a href="https://soft-thinking.github.io/">Project Website</a>]</p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image"><img src="images/pevit.jpg" alt="Efficient Model Adaptation"></div>
-  <div class="paper-box-text">
-    <h2 style="margin-top: 0;">Parameter-efficient Model Adaptation for Vision Transformers</h2>
-    <p><strong>Xuehai He</strong>, Chunyuan Li, Pengchuan Zhang, Jianwei Yang, Xin Eric Wang.<br>
-    <em>AAAI, 2023.</em> [<a href="https://sites.google.com/view/pevit">Project Website</a>]</p>
-  </div>
-</div>
-</div>
 
 
 # 🔍 Publications
