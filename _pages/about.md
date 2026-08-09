@@ -103,5 +103,5 @@ See <a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAA">Google
 
 # 💭 One Last Word
 
-> *"All models are wrong, but some are useful."* — George E. P. Box
+*"All models are wrong, but some are useful."* — George E. P. Box
 
