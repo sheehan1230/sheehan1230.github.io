@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 # 💼 About
-Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved topics around large language models, agents, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I completed my B.S. and started ML research at the University of Electronic Science and Technology of China.
+Hi, I am an Member of Technical Staff at Microsoft AI Superintelligence Team, working on Microsoft and OpenAI model training. I earned my Ph.D. in Computer Science at the University of California, Santa Cruz with Prof. Xin Eric Wang. My PhD research work mainly revolved topics around large language models, agents, and VLM. I was at the University of California, San Diego working on multimodality and AI for healthcare. Before that, I did my B.S. and started ML research at the University of Electronic Science and Technology of China.
 
 
 # 📰 News
@@ -79,6 +79,11 @@ See <a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAA">Google
 
 
 # 🚲 Service
+- 🤝 **Workshop Organizer**:
+  - AAAI 2021: Trustworthy AI for Healthcare [[Link](https://www.youtube.com/watch?v=mJK53b150eM)]
+  - ECCV 2022: Workshop on Computer Vision in the Wild [[Link](https://computer-vision-in-the-wild.github.io/eccv-2022/)]
+  - CVPR 2024: 4th Workshop on Computer Vision in the Wild
+
 - 🗒️ **Conference Reviewer**: ICASSP'19, IJCAI'21, AAAI'21, CVPR'21-'24, ICCV'21-'23, ECCV'22, NeurIPS'22-'23, EMNLP'22-'23, ACL'23-'24, ICML'23-'24.
 
 - ✒️ **Journal Reviewer**: 
@@ -87,11 +92,16 @@ See <a href="https://scholar.google.com/citations?hl=en&user=kDzxOzUAAAA">Google
 - 👥 **Program Committee Member**:
   - NeurIPS 2021 Workshop: Self-Supervised Learning -- Theory and Practice [[Link](https://sslneurips21.github.io/pages/Program%20Committee.html)]
 
-- 🤝 **Workshop Co-organizer**:
-  - AAAI 2021: Trustworthy AI for Healthcare [[Link](https://www.youtube.com/watch?v=mJK53b150eM)]
-  - ECCV 2022: Workshop on Computer Vision in the Wild [[Link](https://computer-vision-in-the-wild.github.io/eccv-2022/)]
-  - CVPR 2024: 4th Workshop on Computer Vision in the Wild
-
 - 🔍 **Workshop Reviewer**:
   - NeurIPS 2022: Efficient Natural Language and Speech Processing (ENLSP-II) [[Link](https://neurips2022-enlsp.github.io/)]
   - ICML 2021: Self-Supervised Learning for Reasoning and Perception [[Link](https://icml21ssl.github.io/pages/Program%20Committee.html)]
+
+
+
+
+
+
+# 💭 One Last Word
+
+> *"All models are wrong, but some are useful."* — George E. P. Box
+
